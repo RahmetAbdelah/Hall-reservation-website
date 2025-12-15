@@ -1,12 +1,14 @@
-AASTU Room Reservation System
-📌 Project Overview
+
+**AASTU Room Reservation System**
+
+📌 **Project Overview**
 
 The AASTU Room Reservation System is a web-based application designed to simplify and manage room reservations at Addis Ababa Science and Technology University (AASTU).
 The system provides a transparent and efficient way for students and administrators to reserve rooms, avoid scheduling conflicts, and manage university spaces effectively.
 
 This project addresses common challenges such as double booking, unclear room availability, and last-minute conflicts during events, exams, or midterms.
 
-🎯 Objectives
+ **Objectives**
 
 Ensure clear visibility of room availability
 
@@ -16,7 +18,7 @@ Improve communication between students and administrators
 
 Digitize and simplify room reservation management
 
-🔐 Login & Registration
+ **Login & Registration**
 
 Users can sign in using their email and password.
 
@@ -30,7 +32,7 @@ Administrators
 
 Each role has its own dashboard and permissions.
 
-🎓 Student Dashboard
+**Student Dashboard**
 
 After logging in, students are redirected to their dashboard where they can:
 
@@ -58,7 +60,7 @@ Capacity
 
 This helps students quickly find rooms that fit their needs.
 
-🏢 Viewing & Booking Rooms
+**Viewing & Booking Rooms**
 
 Rooms are displayed in a card layout showing:
 
@@ -84,7 +86,7 @@ Date and time
 
 Expected number of attendees
 
-📊 Booking Status Tracking
+**Booking Status Tracking**
 
 Submitted booking requests are not approved immediately.
 
@@ -98,7 +100,7 @@ Rejected
 
 If a booking is rejected, the rejection reason is clearly displayed to ensure transparency and help users plan better.
 
-🛠️ Admin Dashboard
+ **Admin Dashboard**
 
 Administrators have full control over the system and can:
 
@@ -126,7 +128,7 @@ Equipment
 
 Description
 
-✅ Managing Reservations
+**Managing Reservations**
 
 Admins can view all booking requests in one place.
 
@@ -142,7 +144,7 @@ The room becomes unavailable for the selected time
 
 Double bookings and scheduling conflicts are prevented
 
-🌙 Additional Features
+**Additional Features**
 
 Dark mode and light mode support
 
