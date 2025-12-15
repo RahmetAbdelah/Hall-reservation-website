@@ -1,7 +1,7 @@
 
 **AASTU Room Reservation System**
 
-📌 **Project Overview**
+ **Project Overview**
 
 The AASTU Room Reservation System is a web-based application designed to simplify and manage room reservations at Addis Ababa Science and Technology University (AASTU).
 The system provides a transparent and efficient way for students and administrators to reserve rooms, avoid scheduling conflicts, and manage university spaces effectively.
